@@ -111,22 +111,22 @@
 <details>
 <summary><b>Speech</b></summary>
 
-<details>
-<summary><b>ASR (Speech Recognition)</b></summary>
+- <details>
+  <summary><b>ASR (Speech Recognition)</b></summary>
 
-- DeepSpeech
-- Wav2Vec2
+  - DeepSpeech
+  - Wav2Vec2
 
-</details>
+  </details>
 
-<details>
-<summary><b>TTS (Text to Speech)</b></summary>
+- <details>
+  <summary><b>TTS (Text to Speech)</b></summary>
 
-- Tacotron
-- FastSpeech
-- VITS
+  - Tacotron
+  - FastSpeech
+  - VITS
 
-</details>
+  </details>
 
 - AudioLM / SoundStream
 
