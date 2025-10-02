@@ -1,16 +1,6 @@
 # DeepLearning Architectures
 
 <details>
-<summary><b>Fundamentals</b></summary>
-
-- Perceptron
-- MLP (FeedForward)
-- Autoencoder
-- Regularization (Dropout, BatchNorm, LayerNorm...)
-
-</details>
-
-<details>
 <summary><b>ComputerVision</b></summary>
 
 - <details>
@@ -134,33 +124,4 @@
 
 <details>
 <summary><b>Multimodal</b></summary>
-
-- CLIP
-- ALIGN
-- Flamingo
-- Kosmos
-- Gemini
-- MM-LLMs (LLaVA, etc.)
-
-</details>
-
-<details>
-<summary><b>ReinforcementLearning</b></summary>
-
-- DQN
-- A3C
-- PPO
-- AlphaZero
-- Dreamer
-
-</details>
-
-<details>
-<summary><b>Others</b></summary>
-
-- GraphNN (GCN, GAT, GraphSAGE)
-- EnergyBasedModels
-- NeuralODE
-- MetaLearning (MAML, ProtoNet)
-
 </details>
