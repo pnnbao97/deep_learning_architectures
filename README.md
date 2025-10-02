@@ -1,4 +1,4 @@
-# DeepLearning
+# DeepLearning Architectures
 
 <details>
 <summary><b>Fundamentals</b></summary>
@@ -69,42 +69,42 @@
 <details>
 <summary><b>NLP</b></summary>
 
-<details>
-<summary><b>RNN</b></summary>
+- <details>
+  <summary><b>RNN</b></summary>
 
-- Elman, Jordan
-- LSTM
-- GRU
+  - Elman, Jordan
+  - LSTM
+  - GRU
 
-</details>
+  </details>
 
-<details>
-<summary><b>Seq2Seq</b></summary>
+- <details>
+  <summary><b>Seq2Seq</b></summary>
 
-- EncoderDecoder
-- Attention (Bahdanau, Luong)
+  - EncoderDecoder
+  - Attention (Bahdanau, Luong)
 
-</details>
+  </details>
 
-<details>
-<summary><b>Transformer</b></summary>
+- <details>
+  <summary><b>Transformer</b></summary>
 
-- VanillaTransformer
-- BERT, RoBERTa, ALBERT
-- GPT series
-- T5
-- LLaMA, Mistral, Falcon...
+  - VanillaTransformer
+  - BERT, RoBERTa, ALBERT
+  - GPT series
+  - T5
+  - LLaMA, Mistral, Falcon...
 
-</details>
+  </details>
 
-<details>
-<summary><b>LargeLanguageModels</b></summary>
+- <details>
+  <summary><b>LargeLanguageModels</b></summary>
 
-- InstructionTuned
-- RLHF
-- MixtureOfExperts
+  - InstructionTuned
+  - RLHF
+  - MixtureOfExperts
 
-</details>
+  </details>
 
 </details>
 
